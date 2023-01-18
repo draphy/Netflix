@@ -12,9 +12,11 @@ To get started with the project, you will need to have Node.js and Vite installe
 
 1. Clone the repository:  [https://github.com/draphy/Netflix.git](https://github.com/draphy/Netflix.git)
 
-2. Install the dependencies: <pre> <code>npm install<code/> <pre/>
+2. Install the dependencies: 
+<pre> <code>npm install<code/> <pre/>
 
-3. Start the development server: <pre> <code>npm run dev<code/> <pre/>
+3. Start the development server: 
+<pre> <code>npm run dev<code/> <pre/>
 
 ## Built With
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
